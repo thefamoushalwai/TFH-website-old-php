@@ -1,0 +1,271 @@
+[11-Feb-2024 15:11:53 UTC] PHP Warning:  include(../checklogin.php): Failed to open stream: No such file or directory in /home/djbwt4j5su9a/public_html/pdf/download_quote.php on line 2
+[11-Feb-2024 15:11:53 UTC] PHP Warning:  include(): Failed opening '../checklogin.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/djbwt4j5su9a/public_html/pdf/download_quote.php on line 2
+[11-Feb-2024 15:11:53 UTC] PHP Warning:  include(../includes/main-inc.php): Failed to open stream: No such file or directory in /home/djbwt4j5su9a/public_html/pdf/download_quote.php on line 3
+[11-Feb-2024 15:11:53 UTC] PHP Warning:  include(): Failed opening '../includes/main-inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/djbwt4j5su9a/public_html/pdf/download_quote.php on line 3
+[11-Feb-2024 15:11:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_query() in /home/djbwt4j5su9a/public_html/pdf/download_quote.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/djbwt4j5su9a/public_html/pdf/download_quote.php on line 27
+[11-Feb-2024 15:12:36 UTC] PHP Warning:  include(includes/inc.php): Failed to open stream: No such file or directory in /home/djbwt4j5su9a/public_html/pdf/download_quote.php on line 2
+[11-Feb-2024 15:12:36 UTC] PHP Warning:  include(): Failed opening 'includes/inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/djbwt4j5su9a/public_html/pdf/download_quote.php on line 2
+[11-Feb-2024 15:12:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_query() in /home/djbwt4j5su9a/public_html/pdf/download_quote.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/djbwt4j5su9a/public_html/pdf/download_quote.php on line 25
+[11-Feb-2024 15:14:03 UTC] PHP Warning:  include(includes/inc.php): Failed to open stream: No such file or directory in /home/djbwt4j5su9a/public_html/pdf/download_quote.php on line 2
+[11-Feb-2024 15:14:03 UTC] PHP Warning:  include(): Failed opening 'includes/inc.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/djbwt4j5su9a/public_html/pdf/download_quote.php on line 2
+[11-Feb-2024 15:14:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_query() in /home/djbwt4j5su9a/public_html/pdf/download_quote.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/djbwt4j5su9a/public_html/pdf/download_quote.php on line 24
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 52
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 53
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 52
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 53
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 52
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 53
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 52
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 53
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 52
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 53
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 52
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 53
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 52
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 53
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 52
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 53
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 52
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 53
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:45:54 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 54
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 54
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 54
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 54
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 54
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 54
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 54
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 54
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 54
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:48:35 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 59
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 59
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 59
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 59
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 59
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 59
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 59
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 59
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 56
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_img" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 58
+[11-Feb-2024 20:49:32 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 59
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 60
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 60
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 60
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 60
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 60
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 60
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 60
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 60
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 57
+[11-Feb-2024 20:52:12 Asia/Calcutta] PHP Warning:  Undefined array key "menu_rate" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 60
+[11-Feb-2024 20:53:19 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:53:19 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:53:19 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:53:19 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:53:19 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:53:19 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:53:19 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:53:19 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 20:53:19 Asia/Calcutta] PHP Warning:  Undefined array key "menu_name" in /home/djbwt4j5su9a/public_html/pdf/get_pdf_quote.php on line 55
+[11-Feb-2024 21:08:15 Asia/Calcutta] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\ImageException: Unable to get the size of the image [https://www.thefamoushalwai.com/frontEnd/menuimg/] in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php:1526
+Stack trace:
+#0 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5782): Spipu\Html2Pdf\Html2Pdf->_drawImage()
+#1 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1444): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG()
+#2 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1412): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#3 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5602): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1444): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD()
+#5 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1398): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#6 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5602): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#7 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1444): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD()
+#8 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1398): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#9 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(600): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#10 /home/djbwt4j5su9a/public_html/pdf/download_quote.php(39): Spipu\Html2Pdf\Html2Pdf->writeHTML()
+#11 {main}
+  thrown in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1526
+[11-Feb-2024 21:08:59 Asia/Calcutta] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\ImageException: Unable to get the size of the image [https://www.thefamoushalwai.com/frontEnd/menuimg/] in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php:1526
+Stack trace:
+#0 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5782): Spipu\Html2Pdf\Html2Pdf->_drawImage()
+#1 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1444): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG()
+#2 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1412): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#3 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5602): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1444): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD()
+#5 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1398): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#6 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5602): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#7 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1444): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD()
+#8 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1398): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#9 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(600): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#10 /home/djbwt4j5su9a/public_html/pdf/download_quote.php(39): Spipu\Html2Pdf\Html2Pdf->writeHTML()
+#11 {main}
+  thrown in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1526
+[11-Feb-2024 21:09:01 Asia/Calcutta] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\ImageException: Unable to get the size of the image [https://www.thefamoushalwai.com/frontEnd/menuimg/] in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php:1526
+Stack trace:
+#0 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5782): Spipu\Html2Pdf\Html2Pdf->_drawImage()
+#1 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1444): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG()
+#2 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1412): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#3 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5602): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1444): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD()
+#5 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1398): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#6 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5602): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#7 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1444): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD()
+#8 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1398): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#9 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(600): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#10 /home/djbwt4j5su9a/public_html/pdf/download_quote.php(39): Spipu\Html2Pdf\Html2Pdf->writeHTML()
+#11 {main}
+  thrown in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1526
+[11-Feb-2024 21:22:28 Asia/Calcutta] PHP Deprecated:  Implicit conversion from float 3.8 to int loses precision in /home/djbwt4j5su9a/public_html/includes/common_func.php on line 216
+[11-Feb-2024 21:27:49 Asia/Calcutta] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\Html2PdfException: The output destination mode [1] is invalid in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php:560
+Stack trace:
+#0 /home/djbwt4j5su9a/public_html/pdf/download_quote.php(44): Spipu\Html2Pdf\Html2Pdf->output()
+#1 {main}
+  thrown in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 560
+[11-Feb-2024 21:29:25 Asia/Calcutta] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\Html2PdfException: The output destination mode [1] is invalid in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php:560
+Stack trace:
+#0 /home/djbwt4j5su9a/public_html/pdf/download_quote.php(44): Spipu\Html2Pdf\Html2Pdf->output()
+#1 {main}
+  thrown in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 560
+[11-Feb-2024 21:46:18 Asia/Calcutta] PHP Warning:  Undefined variable $name in /home/djbwt4j5su9a/public_html/pdf/download_quote.php on line 140
+[11-Feb-2024 22:53:23 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2484
+[11-Feb-2024 22:53:23 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2484
+[11-Feb-2024 22:53:23 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2508
+[11-Feb-2024 22:53:23 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2508
+[11-Feb-2024 22:53:23 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2484
+[11-Feb-2024 22:53:23 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2484
+[11-Feb-2024 22:53:23 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2508
+[11-Feb-2024 22:53:23 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2508
+[11-Feb-2024 22:53:23 Asia/Calcutta] PHP Warning:  Undefined variable $occasionsArr in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[11-Feb-2024 22:53:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[11-Feb-2024 22:54:19 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2484
+[11-Feb-2024 22:54:19 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2484
+[11-Feb-2024 22:54:19 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2508
+[11-Feb-2024 22:54:19 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2508
+[11-Feb-2024 22:54:19 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2484
+[11-Feb-2024 22:54:19 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2484
+[11-Feb-2024 22:54:19 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2508
+[11-Feb-2024 22:54:19 Asia/Calcutta] PHP Warning:  Undefined array key 4 in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 2508
+[11-Feb-2024 22:54:20 Asia/Calcutta] PHP Warning:  Undefined variable $occasionsArr in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[11-Feb-2024 22:54:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[11-Feb-2024 22:54:49 Asia/Calcutta] PHP Warning:  Undefined variable $occasionsArr in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[11-Feb-2024 22:54:49 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[11-Feb-2024 22:55:21 Asia/Calcutta] PHP Warning:  Undefined variable $occasionsArr in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[11-Feb-2024 22:55:21 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[11-Feb-2024 23:05:42 Asia/Calcutta] PHP Warning:  Undefined variable $occasionsArr in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[11-Feb-2024 23:05:42 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[11-Feb-2024 23:06:50 Asia/Calcutta] PHP Warning:  Undefined variable $occasionsArr in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[11-Feb-2024 23:06:50 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[11-Feb-2024 23:07:31 Asia/Calcutta] PHP Warning:  Undefined variable $occasionsArr in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[11-Feb-2024 23:07:31 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[16-Feb-2024 12:16:36 Asia/Calcutta] PHP Warning:  Undefined variable $occasionsArr in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[16-Feb-2024 12:16:36 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[29-Feb-2024 00:21:35 Asia/Calcutta] PHP Warning:  Undefined variable $occasionsArr in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[29-Feb-2024 00:21:35 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[29-Feb-2024 00:22:56 Asia/Calcutta] PHP Warning:  Undefined variable $occasionsArr in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[29-Feb-2024 00:22:56 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[29-Feb-2024 00:23:40 Asia/Calcutta] PHP Warning:  Undefined variable $occasionsArr in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[29-Feb-2024 00:23:40 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[29-Feb-2024 00:24:25 Asia/Calcutta] PHP Warning:  Undefined variable $occasionsArr in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[29-Feb-2024 00:24:25 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[25-Jan-2025 18:02:03 Asia/Calcutta] PHP Warning:  Undefined variable $occasionsArr in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[25-Jan-2025 18:02:03 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[17-Jul-2025 19:13:14 Asia/Calcutta] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php:1552
+Stack trace:
+#0 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5782): Spipu\Html2Pdf\Html2Pdf->_drawImage()
+#1 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1444): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG()
+#2 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1412): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#3 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5602): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1444): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD()
+#5 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1398): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#6 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(5602): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#7 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1444): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD()
+#8 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(1398): Spipu\Html2Pdf\Html2Pdf->_executeAction()
+#9 /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php(600): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#10 /home/djbwt4j5su9a/public_html/pdf/download_quote.php(39): Spipu\Html2Pdf\Html2Pdf->writeHTML()
+#11 {main}
+  thrown in /home/djbwt4j5su9a/public_html/pdf/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1552
+[22-Jun-2026 22:00:12 Asia/Calcutta] PHP Warning:  Undefined variable $occasionsArr in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127
+[22-Jun-2026 22:00:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home/djbwt4j5su9a/public_html/pdf/download_quote_oth.php on line 127

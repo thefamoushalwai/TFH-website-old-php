@@ -1,0 +1,12 @@
+Options +FollowSymLinks
+RewriteEngine On
+AddType text/html .html .htm
+
+RewriteRule pages/(.*)$ website-pages.php?file_name=$1
+RewriteRule services/(.*)$ services-detail.php?file_name=$1
+RewriteRule ourblog/(.*)$ blog-detail.php?file_name=$1
+RewriteRule professionals/(.*)$ professionals-detail.php?file_name=$1
+RewriteRule recipe/(.*)$ menu-recipe-detail.php?file_name=$1
+
+
+RewriteCond $1 !^(webadmin)

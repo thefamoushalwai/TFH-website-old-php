@@ -1,0 +1,44 @@
+.slider {
+  width: 100%;
+  }
+
+  .slider .carousel {
+    height: 100%;}
+
+    .slider .carousel-inner {
+      height: 100%;}
+
+      .slider .carousel-item {
+        height: 100%;
+      }
+
+        .title  {
+          position: absolute;
+          text-align: center;
+          width: 100%;
+          left: 50%;
+          top: 50%;
+          transform: translate(-50%, -50%);
+          color: #fff;}
+
+            .title h1 {
+            font-size: 5rem;
+          }
+
+        .animated {
+            animation-duration: 0.2s;
+            animation-delay: .1s;
+          }
+
+        img {
+          object-fit: cover;
+          height: 100%;
+        }
+
+.slider .carousel-control-prev, .slider .carousel-control-next {
+    top: 50%;
+    width: 40px;
+    opacity: 1;
+    background: red;
+    height: 40px;
+}

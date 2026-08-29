@@ -1,0 +1,124 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width:767px){
+	.logo.jco-d{display:none;}
+	.text-head p{line-height:inherit;}
+	header#header{padding-top:4px;padding-bottom:4px;}
+	a.navbar-brand.jco-m{display:block;margin:0;width:70%;justify-content:flex-end;align-items:center;padding:0;}
+	nav.navbar.nav-top .navbar-toggler{padding:0;font-size:22px;line-height:1px;background-color:transparent;border:1px solid #00000000;}
+	#header.sticky-header .nav-color a.nav-link{line-height:36px;}
+	ul.contact-icon li a i span{display:none;}
+	ul.navbar-nav.nav-color{background:#f7f7f7;padding:14px;margin-top:10px;}
+	.nav-color a.nav-link{border-bottom:solid 1px gray;}
+	.logo-part{padding-bottom:39px;}
+	.footer-bt{text-align:center;padding-top:20px;padding-bottom:20px;border-bottom:solid 1px white;margin:0 auto;width:92%;}
+	.border-right{border-right:1px solid  transparent!important;}
+	.footer-bt:last-child{border-bottom:none;}
+	footer h2:before{display:none;}
+	.slider .carousel-caption h3{font-size:20px;font-weight:600;}
+	.text-head h1{font-size:23px;}
+	.text-head p{text-align:center;}
+	.product-img.product-img2{order:1;}
+	.product-text.product-text2{order:2;padding-top:20px;padding-bottom:20px;}
+	.product-img.product-img3{order:3;}
+	.product-text.product-text3{order:5;padding-top:20px;padding-bottom:20px;}
+	.grid-container{grid-template-columns:auto auto;}
+	.nav-item .dropdown-menu{margin-top:0;background-color:transparent;}
+	a.btn.btn-danger.v-btn{width:auto;}
+	.aboutUsBanner {height: 250px; margin-top: 44px;}
+    .section_lr {padding: 0px; margin-top: 50px !important;/* margin: 0px; */}
+    .galleryBanner {height: 200px;margin-top: 44px;}
+    .gallery-imgRow {gap: 25px;margin-top: 25px !important;}
+    .gallery-text {margin-top: -40px;}
+    .enq-head, .page__banner{display: none;}
+    .view {margin-top: 20px!important;}
+    .h1title {margin-bottom: 15px;padding-top: 30px;font-size: 25px}
+    .footer .whatsapp img {padding-left: 18px;}
+    .serv_head{padding-top: 30px;}
+    .testimonial-heading {padding: 43px 20px!important;}
+    .bhajih{padding-top: 40px!important;}
+    .foot-para {font-size:11px;text-align: center;} 
+
+    .mobileHeader {
+        display: flex!important;
+        justify-content: space-between;
+        width: 100vw;
+    }
+    .mobileMenuItems {
+        font-size: 17px;
+        padding-inline: 20px;
+        padding-block: 20px;
+        color: #767c7c;
+        font-weight: 400;
+    }
+
+    .mobileMenuItemOne {
+        border-bottom: 1px solid gainsboro;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-inline: 10px;
+        padding-top: 10px;
+    }
+
+    .mobileMenuItemOne i {font-size: 1rem;}
+    .mobileMenuItemOne a {color:#767c7c;}
+    .membershipDiv {margin-top: 20px;}
+
+    .menu-section{font-size: 18px!important;}
+    .footer .whatsapp {left: 87% !important;}   
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width:768px){
+	 #mobile-logo {display: none !important;}
+    .mobileMenuItems {display: none;}
+
+    .topChefs_container {grid-template-columns: repeat(1, 1fr);}
+    .chef-bottomheader {display: flex; flex-direction: column; justify-content: space-between;
+        padding-inline: 20px;}
+
+}
+
+@media screen and (max-width: 768px) {
+    .header-Inner-content {
+        display: none !important;
+    }
+
+     .professional-chef-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+
+    .topchef-bottomheader {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-inline: 10px;
+        justify-content: space-between;
+        padding-bottom: 30px;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width:992px){
+	.container.pv-container{max-width:80%;}
+	#header.sticky-header .logo a img.sticky-logo{display:block;transition:all ease 1s;width:50%;}
+	#header.sticky-header .logo a img{width:40%;transition:all 1s ease;}
+	.logo.jco-d a:nth-child(2) img{display:none;}
+}
+@media only screen and (min-width: 1200px){
+.container.pv-container {max-width: 90%;}
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+     .professional-chef-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .topchef-bottomheader {
+        display: flex;
+        justify-content: space-between;
+        padding-inline: 100px;
+    }
+}

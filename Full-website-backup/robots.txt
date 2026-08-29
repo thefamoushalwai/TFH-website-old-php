@@ -1,0 +1,11 @@
+User-Agent: *
+
+Disallow:
+
+Sitemap:https://thefamoushalwai.com/sitemap.xml
+
+
+
+
+
+
